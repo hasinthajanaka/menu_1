@@ -1,0 +1,6 @@
+{
+  "name": "La Lune French Bistro",
+  "description": "An elegant Parisian restaurant menu and reservation landing page for La Lune French Bistro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
